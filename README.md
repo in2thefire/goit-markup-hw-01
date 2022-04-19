@@ -1,2 +1,3 @@
 # goit-markup-hw-01
-First HTML layout (homework-1)(GOIT)
+
+First homework GOIT (HTML) First try in HTML, made layout for landing page (Студия)
